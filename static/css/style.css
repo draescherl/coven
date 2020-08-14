@@ -1,0 +1,49 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.ml-10 {
+	margin-left: 10px;
+}
+
+/* Login/register pages */
+.login .card {
+	background: rgba(0, 0, 0, .6)
+}
+.login label {
+	font-size: 16px;
+	color: #ccc;
+}
+.login input, textarea {
+	font-size: 22px !important;
+	color: #fff;
+}
+.login button:hover {
+	padding: 0px 40px;
+}
+
+input[type="search"] {
+    height: 64px !important; /* or height of nav */
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
+
+.site-container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+} 
+.site-content {
+	flex: 1;
+}
+
+.info{
+	text-align: center;
+	color: white;
+}

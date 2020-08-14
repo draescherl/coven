@@ -1,0 +1,14 @@
+{
+    "brand": "McLaren",
+    "model": "P1",
+    "type": "Supercar",
+    "year": "2014",
+    "price": "3500",
+    "desc": "Un V8 biturbo de 737 ch associ\u00e9 \u00e0 un moteur \u00e9lectrique de 179 ch. En cumul\u00e9, la puissance atteint les 916 ch pour 900 Nm de couple. De quoi exp\u00e9dier le 0 \u00e0 100 km\/h en 2,7s.",
+    "front": "\/media\/cars\/mclaren-p1-front.jpg",
+    "back": "\/media\/cars\/mclaren-p1-back.jpg",
+    "others": [
+        "\/media\/cars\/mclaren-p1-others-0.jpg"
+    ],
+    "reservation": false
+}

@@ -1,0 +1,14 @@
+{
+    "brand": "Bugatti",
+    "model": "Veyron",
+    "type": "Supercar",
+    "year": "2005",
+    "price": "5000",
+    "desc": "Depuis sa mise sur le march\u00e9 en 2005, la bugatti veyron a la r\u00e9putation d\u2019une super sportive digne de tous les superlatifs. Pour les d\u00e9veloppeurs, le cahier des charges \u00e9tait un v\u00e9ritable d\u00e9fi : plus de 1 000 chevaux, une vitesse maximale de plus de 400 km\/h et une acc\u00e9l\u00e9ration de z\u00e9ro \u00e0 cent en moins de trois secondes devaient caract\u00e9riser cette sportive d\u2019exception. m\u00eame les sp\u00e9cialistes pensaient qu'il \u00e9tait impossible de mettre de telles performances sur l\u2019asphalte.",
+    "front": "\/media\/cars\/bugatti-veyron-front.jpg",
+    "back": "\/media\/cars\/bugatti-veyron-back.jpg",
+    "others": [
+        "\/media\/cars\/bugatti-veyron-others-0.jpg"
+    ],
+    "reservation": false
+}

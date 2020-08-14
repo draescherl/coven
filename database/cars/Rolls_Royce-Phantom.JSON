@@ -1,0 +1,14 @@
+{
+    "brand": "Rolls Royce",
+    "model": "Phantom",
+    "type": "Coupé",
+    "year": "2017",
+    "price": "1000",
+    "desc": "Le monde a besoin d'ic\u00f4nes. Ces quelques personnes exceptionnelles qui se tiennent \u00e0 l'\u00e9cart du reste et r\u00e9\u00e9crivent les r\u00e8gles. Pour ces individus qui inspirent la grandeur, seule l'expression la plus pure de la Rolls-Royce suffira. Une ic\u00f4ne comme aucune autre. Une voiture qui se distingue des autres. Un superlatif. D\u00e9fiant les d\u00e9finitions et les conventions. \r\n",
+    "front": "\/media\/cars\/rolls_royce-phantom-front.jpg",
+    "back": "\/media\/cars\/rolls_royce-phantom-back.jpg",
+    "others": [
+        "\/media\/cars\/rolls_royce-phantom-others-0.jpg"
+    ],
+    "reservation": false
+}

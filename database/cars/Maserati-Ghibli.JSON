@@ -1,0 +1,14 @@
+{
+    "brand": "Maserati",
+    "model": "Ghibli",
+    "type": "Coupé",
+    "year": "2013",
+    "price": "300",
+    "desc": "Une caract\u00e9ristique essentielle de la gamme de v\u00e9hicules Maserati est leur capacit\u00e9 \u00e0 couvrir des distances importantes \u00e0 grande vitesse en combinant dynamisme et raffinement. Avec la Ghibli, la puissance qui permet de r\u00e9aliser de telles prestations est d\u00e9livr\u00e9e par un moteur V6 essence.",
+    "front": "\/media\/cars\/maserati-ghibli-front.jpg",
+    "back": "\/media\/cars\/maserati-ghibli-back.jpg",
+    "others": [
+        "\/media\/cars\/maserati-ghibli-others-0.jpg"
+    ],
+    "reservation": false
+}

@@ -1,0 +1,14 @@
+{
+    "brand": "Ferrari",
+    "model": "Lusso",
+    "type": "Break",
+    "year": "2016",
+    "price": "800",
+    "desc": "La nouvelle GTC4Lusso T est \u00e9quip\u00e9e d'une \u00e9volution du c\u00e9l\u00e8bre V8 turbo de 3,9 litres, qui d\u00e9veloppe jusqu'\u00e0 610 ch \u00e0 7 500 tr\/min et permet des acc\u00e9l\u00e9rations puissantes gr\u00e2ce \u00e0 son couple maximal de 760 Nm disponible entre 3 000 et 5 250 tr\/min. Malgr\u00e9 ces incroyables performances, la consommation de carburant de la GTC4Lusso T garantit une excellente autonomie, id\u00e9ale pour la conduite en ville comme pour de longs trajets. ",
+    "front": "\/media\/cars\/ferrari-lusso-front.jpg",
+    "back": "\/media\/cars\/ferrari-lusso-back.jpg",
+    "others": [
+        "\/media\/cars\/ferrari-lusso-others-0.jpg"
+    ],
+    "reservation": false
+}

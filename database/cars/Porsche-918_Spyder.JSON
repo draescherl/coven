@@ -1,0 +1,14 @@
+{
+    "brand": "Porsche",
+    "model": "918 Spyder",
+    "type": "Supercar",
+    "year": "2014",
+    "price": "3000",
+    "desc": "Sous le capot, la Porsche 918 Spyder associe un moteur essence V8 4593 cm3 32 soupapes \u00e0 injection directe de 608 chevaux et 540 Nm \u00e0 deux moteurs \u00e9lectriques r\u00e9partis entre les trains avant et arri\u00e8re et dont la puissance maximale s\u2019\u00e9l\u00e8ve \u00e0 207 kW. Cumul\u00e9es, les deux motorisations autorisent jusqu\u2019\u00e0 887 chevaux de puissance et 800 Nm de couple, soit de quoi franchir le 0 \u00e0 100 km\/h en 2.6 secondes et atteindre la vitesse maximale de 345 km\/h.",
+    "front": "\/media\/cars\/porsche-918_spyder-front.jpg",
+    "back": "\/media\/cars\/porsche-918_spyder-back.jpg",
+    "others": [
+        "\/media\/cars\/porsche-918_spyder-others-0.jpg"
+    ],
+    "reservation": false
+}

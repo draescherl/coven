@@ -1,0 +1,14 @@
+{
+    "brand": "Tesla",
+    "model": "Roadster",
+    "type": "Supercar",
+    "year": "2020",
+    "price": "800",
+    "desc": "Le v\u00e9hicule le plus rapide au monde, affichant acc\u00e9l\u00e9ration, autonomie et performances record.En tant que supercar 100 % \u00e9lectrique, le Roadster maximise le potentiel d'ing\u00e9nierie a\u00e9rodynamique avec des performances et un rendement record.",
+    "front": "\/media\/cars\/tesla-roadster-front.jpg",
+    "back": "\/media\/cars\/tesla-roadster-back.jpg",
+    "others": [
+        "\/media\/cars\/tesla-roadster-others-0.jpg"
+    ],
+    "reservation": false
+}

@@ -1,0 +1,5 @@
+List of roles :
+- 0 : user not logged in
+- 1 : user logged in
+- 2 : dealership staff
+- 3 : administrator

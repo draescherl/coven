@@ -1,0 +1,14 @@
+{
+    "brand": "McLaren",
+    "model": "675LT",
+    "type": "Supercar",
+    "year": "2015",
+    "price": "2000",
+    "desc": "Une ligne \u00e0 couper le souffle, une poupe typ\u00e9e long tail, inspir\u00e9e des McLaren F1 GTR des ann\u00e9es 1990 et un moteur V8 de 675 ch permettant d'effectuer le 0-100km\/h en moins de 3 secondes ...",
+    "front": "\/media\/cars\/mclaren-675lt-front.jpg",
+    "back": "\/media\/cars\/mclaren-675lt-back.jpg",
+    "others": [
+        "\/media\/cars\/mclaren-675lt-others-0.jpg"
+    ],
+    "reservation": false
+}
